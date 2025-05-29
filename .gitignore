@@ -4,7 +4,6 @@ data/
 **/model_checkpoints
 **/outputs
 training_with_callbacks/
-*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
