@@ -1,0 +1,5 @@
+# phi-4
+perf
+soundfile
+transformers
+# pip install flash-attn --no-build-isolation
